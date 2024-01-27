@@ -17,7 +17,7 @@
     "show_full_screen_wallpaper_details": false,
     "enable_center_crop_wallpaper_details": true,
     "enable_exit_dialog": true,
-    "enable_rtl_mode": false,
+    "enable_rtl_mode": true,
     "enable_dark_mode_as_default_theme": true
   },
   "ads": {
@@ -27,11 +27,11 @@
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-4177691308130545",
-        "app_open_id": "ca-app-pub-4177691308130545/9163796690",
-        "banner_id": "ca-app-pub-4177691308130545/2586976831",
-        "interstitial_id": "ca-app-pub-4177691308130545/2170090154",
-        "rewarded_id": "ca-app-pub-4177691308130545/6138124209",
-        "native_id": "ca-app-pub-4177691308130545/6600289756"
+        "app_open_id": "ca-app-pub-4177691308130545/5942445403",
+        "banner_id": "ca-app-pub-4177691308130545/1779554055",
+        "interstitial_id": "ca-app-pub-4177691308130545/1621192834",
+        "rewarded_id": "ca-app-pub-4177691308130545/8568608740",
+        "native_id": "ca-app-pub-4177691308130545/8385325009"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
